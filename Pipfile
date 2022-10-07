@@ -13,6 +13,7 @@ statsmodels = "*"
 ipykernel = "*"
 
 [dev-packages]
+notebook = "*"
 
 [requires]
 python_version = "3.9"
